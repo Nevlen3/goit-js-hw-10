@@ -1,4 +1,4 @@
-# Vanilla App Template
+# Vanilla App Template 
 
 Acest proiect a fost creat cu ajutorul Vite. Pentru o mai bună cunoaștere 
 și configurare a funcțiilor suplimentare [consultă documentația](https://vitejs.dev/).
